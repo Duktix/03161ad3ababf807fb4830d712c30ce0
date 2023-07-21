@@ -1,0 +1,3 @@
+Sitemap:https://Duktix.github.io/03161ad3ababf807fb4830d712c30ce0/sitemap.xml
+User-agent:*
+Disallow:

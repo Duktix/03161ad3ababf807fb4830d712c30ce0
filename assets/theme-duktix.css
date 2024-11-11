@@ -364,7 +364,9 @@ body{
 		.spacer.height-500{
 		min-height: 500px;
 	}
-			.gutter-l-0{
+	
+	@media (min-width: 980px){
+		.gutter-l-0{
 		margin-left: 0px;
 		margin-right: 0px;
 	}
@@ -772,7 +774,7 @@ body{
 		padding-left: 50px;
 		padding-right: 50px;
 	}
-		
+		}
 	
 	
 	
